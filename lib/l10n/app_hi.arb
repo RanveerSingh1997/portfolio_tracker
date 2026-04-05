@@ -1,0 +1,141 @@
+{
+  "@@locale": "hi",
+  "appTitle": "पोर्टफोलियो ट्रैकर",
+  "dashboardTitle": "पोर्टफोलियो अवलोकन",
+  "holdingsTitle": "होल्डिंग्स",
+  "transactionsTitle": "लेन-देन",
+  "dashboardTab": "डैशबोर्ड",
+  "holdingsTab": "होल्डिंग्स",
+  "transactionsTab": "लेन-देन",
+  "portfolioOverviewHeading": "पोर्टफोलियो अवलोकन",
+  "portfolioOverviewSubtitle": "अपनी कुल वैल्यू, लाभ और हाल की गतिविधियों को एक ही जगह ट्रैक करें।",
+  "totalValue": "कुल वैल्यू",
+  "invested": "निवेश",
+  "cashBalance": "कैश बैलेंस",
+  "dayChange": "आज का बदलाव",
+  "performance": "प्रदर्शन",
+  "totalGainLoss": "कुल लाभ/हानि",
+  "holdings": "होल्डिंग्स",
+  "topHoldings": "शीर्ष होल्डिंग्स",
+  "routeUnavailableTitle": "यह स्क्रीन उपलब्ध नहीं है",
+  "backToPortfolio": "पोर्टफोलियो पर वापस जाएं",
+  "buy": "खरीद",
+  "sell": "बेचें",
+  "dividend": "डिविडेंड",
+  "allocationTitle": "सेक्टर के अनुसार आवंटन",
+  "cashActionsTitle": "कैश प्रबंधन",
+  "addTransactionAction": "लेन-देन जोड़ें",
+  "depositCashAction": "कैश जमा करें",
+  "withdrawCashAction": "कैश निकालें",
+  "transactionFormTitle": "मैन्युअल लेन-देन प्रविष्टि",
+  "transactionTypeLabel": "लेन-देन प्रकार",
+  "symbolLabel": "सिंबल",
+  "assetNameLabel": "एसेट नाम",
+  "sectorLabel": "सेक्टर",
+  "amountLabel": "राशि",
+  "quantityLabel": "मात्रा",
+  "selectDateLabel": "लेन-देन की तारीख",
+  "saveAction": "सहेजें",
+  "cancelAction": "रद्द करें",
+  "searchHoldingsHint": "सिंबल या नाम से होल्डिंग खोजें",
+  "searchTransactionsHint": "सिंबल या एसेट नाम से लेन-देन खोजें",
+  "allSectorsLabel": "सभी सेक्टर",
+  "sortByLabel": "क्रमबद्ध करें",
+  "sortBySymbol": "सिंबल",
+  "sortByMarketValue": "मार्केट वैल्यू",
+  "sortByProfitLoss": "लाभ/हानि",
+  "noHoldingsMatchFilters": "वर्तमान फ़िल्टर से कोई होल्डिंग मेल नहीं खाती।",
+  "transactionFilterLabel": "लेन-देन प्रकार फ़िल्टर",
+  "allTransactionTypesLabel": "सभी लेन-देन प्रकार",
+  "allYearsLabel": "सभी वर्ष",
+  "currentYearOnlyLabel": "यह वर्ष",
+  "noTransactionsMatchFilters": "वर्तमान फ़िल्टर से कोई लेन-देन मेल नहीं खाता।",
+  "analyticsTitle": "विश्लेषण",
+  "bestPerformerLabel": "सर्वश्रेष्ठ प्रदर्शन",
+  "biggestPositionLabel": "सबसे बड़ी पोज़िशन",
+  "cashAllocationLabel": "कैश आवंटन",
+  "sectorDiversificationLabel": "सेक्टर विविधीकरण",
+  "taxSummaryTitle": "टैक्स सारांश {year}",
+  "@taxSummaryTitle": {
+    "placeholders": {
+      "year": {}
+    }
+  },
+  "dividendIncomeLabel": "डिविडेंड आय",
+  "sellProceedsLabel": "बिक्री प्राप्ति",
+  "estimatedRealizedGainLabel": "अनुमानित realized gain",
+  "taxableEventsLabel": "कर योग्य घटनाएं",
+  "noTaxEventsLabel": "इस वर्ष के लिए कोई कर योग्य घटना दर्ज नहीं है।",
+  "portfolioDataTitle": "पोर्टफोलियो डेटा",
+  "exportPortfolioAction": "JSON एक्सपोर्ट करें",
+  "importPortfolioAction": "JSON इम्पोर्ट करें",
+  "exportPortfolioTitle": "पोर्टफोलियो डेटा एक्सपोर्ट करें",
+  "importPortfolioTitle": "पोर्टफोलियो डेटा इम्पोर्ट करें",
+  "copyJsonAction": "JSON कॉपी करें",
+  "importPortfolioHint": "पहले एक्सपोर्ट किया गया पोर्टफोलियो JSON यहां पेस्ट करें।",
+  "portfolioCopiedMessage": "पोर्टफोलियो JSON क्लिपबोर्ड पर कॉपी हो गया।",
+  "portfolioImportedMessage": "पोर्टफोलियो डेटा सफलतापूर्वक इम्पोर्ट हो गया।",
+  "watchlistTitle": "वॉचलिस्ट",
+  "addWatchlistAction": "सिंबल जोड़ें",
+  "watchlistFormTitle": "वॉचलिस्ट आइटम जोड़ें",
+  "targetPriceLabel": "लक्ष्य मूल्य",
+  "noteLabel": "नोट",
+  "noWatchlistItems": "अभी कोई वॉचलिस्ट आइटम नहीं है।",
+  "removeWatchlistAction": "वॉचलिस्ट से हटाएं",
+  "dividendTrackingTitle": "डिविडेंड ट्रैकिंग",
+  "yearToDateIncomeLabel": "वर्ष-से-अब तक की आय",
+  "trailingIncomeLabel": "पिछले 12 महीने",
+  "topIncomeSymbolLabel": "सबसे अधिक आय वाला सिंबल",
+  "dividendEventsLabel": "डिविडेंड घटनाएं",
+  "noDividendEventsLabel": "अभी तक कोई डिविडेंड घटना दर्ज नहीं है।",
+  "recentDividendsLabel": "हाल के डिविडेंड",
+  "topSectorLabel": "शीर्ष सेक्टर",
+  "dividendRunRateLabel": "डिविडेंड रन रेट",
+  "requiredFieldError": "यह फ़ील्ड आवश्यक है।",
+  "positiveNumberError": "शून्य से अधिक मान दर्ज करें।",
+  "portfolioLoadError": "पोर्टफोलियो डेटा लोड नहीं हो सका।",
+  "networkTimeoutError": "अनुरोध का समय समाप्त हो गया। कृपया फिर से प्रयास करें।",
+  "networkConnectionError": "अभी कनेक्ट नहीं हो सका। अपना कनेक्शन जांचें और फिर प्रयास करें।",
+  "httpError": "सर्वर ने त्रुटि लौटाई ({statusCode})।",
+  "@httpError": {
+    "placeholders": {
+      "statusCode": {}
+    }
+  },
+  "unknownStatusCode": "अज्ञात",
+  "parseError": "ऐप को अप्रत्याशित प्रारूप में डेटा मिला।",
+  "genericError": "कुछ गलत हो गया। कृपया फिर से प्रयास करें।",
+  "routeNotFoundError": "रूट \"{route}\" नहीं खुल सका।",
+  "@routeNotFoundError": {
+    "placeholders": {
+      "route": {}
+    }
+  },
+  "holdingSubtitleTemplate": "{name} • {quantity} शेयर",
+  "@holdingSubtitleTemplate": {
+    "placeholders": {
+      "name": {},
+      "quantity": {}
+    }
+  },
+  "transactionTitleTemplate": "{symbol} • {typeLabel}",
+  "@transactionTitleTemplate": {
+    "placeholders": {
+      "symbol": {},
+      "typeLabel": {}
+    }
+  },
+  "transactionSubtitleTemplate": "{assetName} • {formattedDate}",
+  "@transactionSubtitleTemplate": {
+    "placeholders": {
+      "assetName": {},
+      "formattedDate": {}
+    }
+  },
+  "unitsLabelTemplate": "{quantity} यूनिट",
+  "@unitsLabelTemplate": {
+    "placeholders": {
+      "quantity": {}
+    }
+  }
+}

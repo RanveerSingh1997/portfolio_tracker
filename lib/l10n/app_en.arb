@@ -1,0 +1,141 @@
+{
+  "@@locale": "en",
+  "appTitle": "Portfolio Tracker",
+  "dashboardTitle": "Portfolio Overview",
+  "holdingsTitle": "Holdings",
+  "transactionsTitle": "Transactions",
+  "dashboardTab": "Dashboard",
+  "holdingsTab": "Holdings",
+  "transactionsTab": "Transactions",
+  "portfolioOverviewHeading": "Portfolio Overview",
+  "portfolioOverviewSubtitle": "Track your current value, gains, and recent activity from one place.",
+  "totalValue": "Total Value",
+  "invested": "Invested",
+  "cashBalance": "Cash Balance",
+  "dayChange": "Day Change",
+  "performance": "Performance",
+  "totalGainLoss": "Total Gain/Loss",
+  "holdings": "Holdings",
+  "topHoldings": "Top Holdings",
+  "routeUnavailableTitle": "This screen is unavailable",
+  "backToPortfolio": "Back to portfolio",
+  "buy": "Buy",
+  "sell": "Sell",
+  "dividend": "Dividend",
+  "allocationTitle": "Allocation by sector",
+  "cashActionsTitle": "Cash management",
+  "addTransactionAction": "Add transaction",
+  "depositCashAction": "Deposit cash",
+  "withdrawCashAction": "Withdraw cash",
+  "transactionFormTitle": "Manual transaction entry",
+  "transactionTypeLabel": "Transaction type",
+  "symbolLabel": "Symbol",
+  "assetNameLabel": "Asset name",
+  "sectorLabel": "Sector",
+  "amountLabel": "Amount",
+  "quantityLabel": "Quantity",
+  "selectDateLabel": "Transaction date",
+  "saveAction": "Save",
+  "cancelAction": "Cancel",
+  "searchHoldingsHint": "Search holdings by symbol or name",
+  "searchTransactionsHint": "Search transactions by symbol or asset name",
+  "allSectorsLabel": "All sectors",
+  "sortByLabel": "Sort by",
+  "sortBySymbol": "Symbol",
+  "sortByMarketValue": "Market value",
+  "sortByProfitLoss": "Gain/Loss",
+  "noHoldingsMatchFilters": "No holdings match the current filters.",
+  "transactionFilterLabel": "Transaction type filter",
+  "allTransactionTypesLabel": "All transaction types",
+  "allYearsLabel": "All years",
+  "currentYearOnlyLabel": "This year",
+  "noTransactionsMatchFilters": "No transactions match the current filters.",
+  "analyticsTitle": "Analytics",
+  "bestPerformerLabel": "Best performer",
+  "biggestPositionLabel": "Biggest position",
+  "cashAllocationLabel": "Cash allocation",
+  "sectorDiversificationLabel": "Sector diversification",
+  "taxSummaryTitle": "Tax summary {year}",
+  "@taxSummaryTitle": {
+    "placeholders": {
+      "year": {}
+    }
+  },
+  "dividendIncomeLabel": "Dividend income",
+  "sellProceedsLabel": "Sell proceeds",
+  "estimatedRealizedGainLabel": "Estimated realized gain",
+  "taxableEventsLabel": "Taxable events",
+  "noTaxEventsLabel": "No taxable events recorded for this year.",
+  "portfolioDataTitle": "Portfolio data",
+  "exportPortfolioAction": "Export JSON",
+  "importPortfolioAction": "Import JSON",
+  "exportPortfolioTitle": "Export portfolio data",
+  "importPortfolioTitle": "Import portfolio data",
+  "copyJsonAction": "Copy JSON",
+  "importPortfolioHint": "Paste a previously exported portfolio JSON snapshot.",
+  "portfolioCopiedMessage": "Portfolio JSON copied to clipboard.",
+  "portfolioImportedMessage": "Portfolio data imported successfully.",
+  "watchlistTitle": "Watchlist",
+  "addWatchlistAction": "Add symbol",
+  "watchlistFormTitle": "Add watchlist item",
+  "targetPriceLabel": "Target price",
+  "noteLabel": "Note",
+  "noWatchlistItems": "No watchlist items yet.",
+  "removeWatchlistAction": "Remove from watchlist",
+  "dividendTrackingTitle": "Dividend tracking",
+  "yearToDateIncomeLabel": "Year-to-date income",
+  "trailingIncomeLabel": "Trailing 12 months",
+  "topIncomeSymbolLabel": "Top income symbol",
+  "dividendEventsLabel": "Dividend events",
+  "noDividendEventsLabel": "No dividend events recorded yet.",
+  "recentDividendsLabel": "Recent dividends",
+  "topSectorLabel": "Top sector",
+  "dividendRunRateLabel": "Dividend run rate",
+  "requiredFieldError": "This field is required.",
+  "positiveNumberError": "Enter a value greater than zero.",
+  "portfolioLoadError": "Unable to load portfolio data.",
+  "networkTimeoutError": "The request timed out. Please try again.",
+  "networkConnectionError": "Unable to connect right now. Check your connection and try again.",
+  "httpError": "The server returned an error ({statusCode}).",
+  "@httpError": {
+    "placeholders": {
+      "statusCode": {}
+    }
+  },
+  "unknownStatusCode": "unknown",
+  "parseError": "The app received data in an unexpected format.",
+  "genericError": "Something went wrong. Please try again.",
+  "routeNotFoundError": "The route \"{route}\" could not be opened.",
+  "@routeNotFoundError": {
+    "placeholders": {
+      "route": {}
+    }
+  },
+  "holdingSubtitleTemplate": "{name} • {quantity} shares",
+  "@holdingSubtitleTemplate": {
+    "placeholders": {
+      "name": {},
+      "quantity": {}
+    }
+  },
+  "transactionTitleTemplate": "{symbol} • {typeLabel}",
+  "@transactionTitleTemplate": {
+    "placeholders": {
+      "symbol": {},
+      "typeLabel": {}
+    }
+  },
+  "transactionSubtitleTemplate": "{assetName} • {formattedDate}",
+  "@transactionSubtitleTemplate": {
+    "placeholders": {
+      "assetName": {},
+      "formattedDate": {}
+    }
+  },
+  "unitsLabelTemplate": "{quantity} units",
+  "@unitsLabelTemplate": {
+    "placeholders": {
+      "quantity": {}
+    }
+  }
+}
